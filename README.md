@@ -16,20 +16,18 @@
 - HTML
 - CSS
 - SQL
-- Git & GitHub
+- java
 
 ## 📚 Currently Learning
 
 - Python
 - Data Structures
-- AI & Machine Learning
-- Web Development
+- java
 
 ## 🎯 Goals
 
 - Build real-world projects
 - Improve my programming skills
-- Contribute to open-source projects
 - Build a strong developer portfolio
 
 ## 📫 Connect With Me
